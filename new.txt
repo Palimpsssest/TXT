@@ -1,0 +1,5 @@
+Name: Yana.
+Surname: Fadina.
+Age: 29.
+Pets: Cat.
+Salary: three rice plates per week.
